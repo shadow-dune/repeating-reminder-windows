@@ -7,4 +7,4 @@ A simple repeating reminder made with python for windows. It can display a repea
 4. Run it using python
 5. Enjoy!
 ## Uses
-1. It can be used as a reminder to take a break while working for eye exercises, stretching, etc.
+1. It can be used as a reminder to take a break for eye exercises, stretching, etc while working
